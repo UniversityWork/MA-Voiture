@@ -11,3 +11,7 @@ DomaineVOiture la partie Model.
 
 #Contact
 thc@thierrycros.net
+
+#Auteur 
+Alexandre Baudesson--stella
+Wladimir du Manoir 

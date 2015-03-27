@@ -1,7 +1,6 @@
 package GUI;
 
-import AppliSimu.Voiture;
-import GUI.CommandeVoiture;
+import metier.Voiture;
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -35,7 +34,7 @@ public class IHMVoiture extends JFrame implements Observer{
 	public IHMVoiture() {
 		super();
 		initGraphique();
-		this.maVoiture = new Voiture(1,1,1);
+		this.maVoiture = new Voiture(1,1,1); //TODO ask default
 	}
 	
 	public int calculerPositionPixels(int xMetres) {

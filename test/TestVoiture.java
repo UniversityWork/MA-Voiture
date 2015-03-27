@@ -1,6 +1,6 @@
 package test;
 
-import AppliSimu.Voiture;
+import metier.Voiture;
 import org.junit.Before;
 import org.junit.Test;
 

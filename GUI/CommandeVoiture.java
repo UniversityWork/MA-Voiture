@@ -1,6 +1,6 @@
 package GUI;
 
-import AppliSimu.Voiture;
+import metier.Voiture;
 
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;

@@ -16,9 +16,8 @@ public class Voiture extends Observable {
 		this.directionEnDegres = 0;
 	}
 
-
-
 	public void miseAJourPosition() {
+        //TODO change to Obsevateur Class
 		miseAJourPositionX();
 		notificationObservateur();
 	}
@@ -63,7 +62,7 @@ public class Voiture extends Observable {
 	}
 
 	public void inverserDirection() {
-		directionEnDegres +=180 ;
+		directionEnDegres += 180;
 		directionEnDegres = directionEnDegres % 360;
 		
 	}

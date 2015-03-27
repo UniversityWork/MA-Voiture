@@ -1,5 +1,8 @@
 package AppliSimu;
 
+import GUI.IHMVoiture;
+import metier.Voiture;
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
