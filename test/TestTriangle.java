@@ -1,8 +1,9 @@
-package AppliSimu;
+package test;
 
 
 import static org.junit.Assert.*;
 
+import GUI.IHMVoiture;
 import org.junit.Before;
 import org.junit.Test;
 

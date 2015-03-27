@@ -1,4 +1,4 @@
-package AppliSimu;
+package metier;
 
 import java.util.Observable;
 

@@ -1,4 +1,7 @@
-package AppliSimu;
+package GUI;
+
+import AppliSimu.Voiture;
+import GUI.CommandeVoiture;
 
 import java.awt.Color;
 import java.awt.Graphics;

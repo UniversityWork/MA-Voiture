@@ -1,5 +1,6 @@
-package AppliSimu;
+package test;
 
+import AppliSimu.Voiture;
 import org.junit.Before;
 import org.junit.Test;
 
