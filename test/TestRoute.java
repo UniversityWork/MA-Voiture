@@ -11,7 +11,7 @@ import static org.junit.Assert.assertFalse;
  * Created by droit on 09/04/15.
  * Test Route
  */
-public class testRoute {
+public class TestRoute {
 
     private Route route;
 
